@@ -6,7 +6,7 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-center">
         <div className="hero-title">
-          <h1>Contentful CMS</h1>
+          <h1>Projects</h1>
           <p>
             Never forget that your journey is unique to you. While others may
             walk different paths, you are on your own journey of self-discovery
